@@ -1,7 +1,7 @@
 #include <stdio.h>
-int main()
-{
-  char words[n]; = "Programming is like building a multilingual puzzle";
-  puts(words);
-  return 0;
-}
+/**
+ * main - Prints string
+ * Decricription: Prints
+"\"Programming is like building a multilingual puzzle"
+ * Return: 0
+ */
