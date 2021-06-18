@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Prints string
- * Decricription: Prints "\"Programming is like building a multilingual puzzle"
+ * Decricription: Prints sizes of data types in bytes
  * Return: 0
  */
 int main(void)
