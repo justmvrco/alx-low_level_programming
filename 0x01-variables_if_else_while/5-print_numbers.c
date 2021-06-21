@@ -6,12 +6,14 @@
  */
 int main(void)
 {
-char i;
+int i;
 
-for (i = 'a'; i <= 'z'; i++)
+i = 0;
+while (i < 10)
 {
-putchar(i);
+printf("%d", i);
+i++;
 }
-putchar('\n');
+printf("\n");
 return (0);
 }
