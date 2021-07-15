@@ -1,4 +1,4 @@
-(^0-isupper.o
+0-isupper.o
 0-memset.o
 0-strcat.o
 1-isdigit.o
@@ -17,4 +17,4 @@
 5-strstr.o
 6-abs.o
 9-strcpy.o
- )_putchar.o
+_putchar.o
