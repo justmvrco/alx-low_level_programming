@@ -1,5 +1,5 @@
-SRC = main.c holberton.c
+SRC = main.c school.c
 
 
-all : main.o holberton.o
-	$(CC) $(SRC) -o holberton
+all : main.o school.o
+	$(CC) $(SRC) -o school
